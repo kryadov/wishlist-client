@@ -1,0 +1,24 @@
+import React from 'react';
+
+interface WishlistItem {
+  id: number;
+  name: string;
+  description: string;
+  credits: number;
+}
+
+interface Props {
+  wishlistItem: WishlistItem;
+}
+
+const WishlistItem: React.FC<Props> = ({ wishlistItem }) => {
+  return (
+    <li>
+      <h2>{wishlistItem.name}</h2>
+      <p>{wishlistItem.description}</p>
+      <p>{wishlistItem.credits}</p>
+    </li>
+  );
+};
+
+export default WishlistItem;

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Play Station 5",
+    "description": "Best game console in the world.",
+    "credits": 10.00
+  },
+  {
+    "id": 2,
+    "name": "XBox Series X",
+    "description": "Other not bad game console in the world.",
+    "credits": 8.00
+  },
+  {
+    "id": 3,
+    "name": "Monopoly Game (Hasbro)",
+    "description": "Family board game with two six-sided dices.",
+    "credits": 1.00
+  },
+  {
+    "id": 4,
+    "name": "Kick scooter",
+    "description": " Human-powered street vehicle with a handlebar, deck, and wheels.",
+    "credits": 4.00
+  }
+]
