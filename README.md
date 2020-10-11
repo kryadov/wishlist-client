@@ -1,2 +1,2 @@
 # wishlist-client
-This is wihilist application written on Typescript + React. 
+This is a wishlist application written using Typescript and React. 
