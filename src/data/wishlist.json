@@ -20,7 +20,19 @@
   {
     "id": 4,
     "name": "Kick scooter",
-    "description": " Human-powered street vehicle with a handlebar, deck, and wheels.",
+    "description": "Human-powered street vehicle with a handlebar, deck, and wheels.",
     "credits": 4.00
+  },
+  {
+    "id": 13,
+    "name": "Димина хрень по выбору",
+    "description": "Топ сикерД!!!!  Банза-бонза.",
+    "credits": 100500.00
+  },
+  {
+    "id": 14,
+    "name": "Димина хрень по выбору следующего года",
+    "description": "Топ сикерД!!!!  Банза-бонза.",
+    "credits": 100500.00
   }
 ]

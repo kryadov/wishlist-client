@@ -1,4 +1,5 @@
 import React from 'react';
+import WishlistItemCSS from './WishlistItem.module.css';
 
 interface WishlistItem {
   id: number;
@@ -13,7 +14,7 @@ interface Props {
 
 const WishlistItem: React.FC<Props> = ({ wishlistItem }) => {
   return (
-    <li>
+    <li className={WishlistItemCSS.container}>
       <h2>{wishlistItem.name}</h2>
       <p>{wishlistItem.description}</p>
       <p>{wishlistItem.credits}</p>
