@@ -5,10 +5,14 @@
 }
 
 .header {
-  margin: 0 0 50px;
+  margin: 0 0 10px;
   text-align: center;
 }
 
+.footer {
+  margin: 0 0 0px;
+  text-align: center;
+}
 .siteTitle {
   font-size: 32px;
   margin: 0 0 10px;
